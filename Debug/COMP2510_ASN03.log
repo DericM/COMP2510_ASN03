@@ -1,0 +1,16 @@
+﻿  COMP2510_ASN03.c
+c:\users\deric\workspace\comp2510_asn03\comp2510_asn03.c(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\deric\workspace\comp2510_asn03\comp2510_asn03.c(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\deric\workspace\comp2510_asn03\comp2510_asn03.c(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\deric\workspace\comp2510_asn03\comp2510_asn03.c(136): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\deric\workspace\comp2510_asn03\comp2510_asn03.c(160): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\deric\workspace\comp2510_asn03\comp2510_asn03.c(161): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\deric\workspace\comp2510_asn03\comp2510_asn03.c(174): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\deric\workspace\comp2510_asn03\comp2510_asn03.c(174): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  COMP2510_ASN03.vcxproj -> C:\Users\Deric\workspace\Debug\COMP2510_ASN03.exe

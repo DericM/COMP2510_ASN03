@@ -1,0 +1,15 @@
+homer simpson12 25  # names can contain any character
+ned flanders 099    # leading 0's are OK for score
+montgomery burns 89 
+bart simpson 35
+marge simpson # invalid score (# is not a valid score) 
+bart simpson 35abc # 35abc is not an integer
+lisa simpson 90
+bart simpson 34.5 # 34.5 is not an integer
+bart simpson 25
+lisa simpson 105 # score exceeds 100
+lisa simpson abc # invalid score
+flanders
+flanders ned
+apu naaaahasapeemapetilon 88  # invalid
+
